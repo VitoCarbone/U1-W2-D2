@@ -48,6 +48,13 @@
 /* ESERCIZIO 8
   Crea un algoritmo per verificare che un valore fornito sia un numero oppure no (suggerimento: cerca su un motore di ricerca "typeof").
 */
+let x = 1
+if (typeof x === "string"){
+  console.log ("Questa condizione è vera")
+
+}else{
+  console.log("Questa codizione è falsa");
+}
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
