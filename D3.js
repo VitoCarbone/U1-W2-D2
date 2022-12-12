@@ -104,15 +104,8 @@ console.log ("Il totale con spedizione a pagamento: "+ checkout)
   Alla fine mostra il risultato in console.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA 
-let qui = 3
-let quo = 2
-let qua = 1
-if (qui>quo && qui>qua){
-    console.log(qui,qua,quo)
-}if (quo>qua){
-    else console.log (qui, quo, qua)
-}*/
+//SCRIVI QUI LA TUA RISPOSTA 
+
 
 
 /* ESERCIZIO 8
